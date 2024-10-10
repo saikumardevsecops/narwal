@@ -1,0 +1,9 @@
+⦁ High let the path variable click on edit- click new – paste the path JDK/bin
+⦁ Open – https://maven.apche.org/download.cgi
+⦁ And download bin zip version
+⦁ Extract it and it open and copy its path
+⦁ Click on environment variables – click on new- create a variable M2_HOME and p
+Satya Vemagiri
+8:37 AM
+Java downloader link:
+https://download.oracle.com/java/23/latest/jdk-23_windows-x64_bin.exe (sha256)
