@@ -1,0 +1,19 @@
+Configure the Maven
+⦁ download and install JDK
+⦁ open cdrive – program files- open java-open JDK folder – copy its path
+⦁ click on environment variables click on new- create a variable JAVA_HOME and paste the path of JDK
+⦁ High let the path variable click on edit- click new – paste the path JDK/bin
+
+[D[D[D[D
+
+
+
+[A[A[A[A[A[A[A[A[A[B[B[B[B[B
+
+
+
+[A[A[A[A[A[A[A[A[B[B[B[B[B[B[B[B[B[A[B[B[B[B[B[B[B[A[A[A[A[A[A[A[A[A[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D[D[D[D[D[D[D[[[C[C[C[C[C[C[C[C[C[C[C
+clear
+
+
+cat >>data[D[D[D[[[C[C[C[ >data2.txt
